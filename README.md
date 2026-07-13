@@ -50,7 +50,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hemantmehraa&theme=darkhub&no-frame=true&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=hemantmehraa&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📫 Connect With Me
 
