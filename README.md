@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Hemant Mehra
 
-<!--
-**hemantmehraa/hemantmehraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
 
-Here are some ideas to get you started:
+🎓 BCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Aspiring Data Analyst
+
+💻 Skills: Python | SQL | Excel | Power BI
+
+📚 Currently Learning: Pandas, NumPy, Matplotlib & Advanced SQL
+
+🚀 Passionate about turning data into meaningful insights
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Git & GitHub
+
+## 📂 Featured Projects
+
+- 📈 Sales Analysis Dashboard
+- 🌍 HM Tours and Travels
+
+## 📫 Connect with Me
+
+- 📧 mehrahemant39@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/hemant-mehra-197027395
