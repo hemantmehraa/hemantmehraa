@@ -48,9 +48,12 @@
 
 ![](https://komarev.com/ghpvc/?username=hemantmehraa&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🏆 GitHub Trophies
+## 📈 Current Focus
 
-![](https://github-profile-trophy.vercel.app/?username=hemantmehraa&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+- 🌱 Learning Pandas, NumPy & Advanced SQL
+- 📊 Building Data Analytics Projects
+- 💼 Looking for Data Analyst Opportunities
+- 🚀 Improving Python & Power BI Skills
 
 ## 📫 Connect With Me
 
