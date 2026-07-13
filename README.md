@@ -33,8 +33,6 @@
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=hemantmehraa)
 
-![Top Languages](https://ghstats.dev/api/languages?username=hemantmehraa)
-
 ---
 
 ## 🚀 Featured Projects
