@@ -31,9 +31,9 @@
 ---
 ## 📊 GitHub Stats
 
-![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemantmehraa&show_icons=true&theme=github_dark)
+![GitHub Stats](https://ghstats.dev/api/card?username=hemantmehraa)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantmehraa&layout=compact&theme=github_dark)
+![Top Languages](https://ghstats.dev/api/languages?username=hemantmehraa)
 
 ---
 
