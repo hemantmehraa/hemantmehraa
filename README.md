@@ -1,4 +1,5 @@
 # Hi 👋, I'm Hemant Mehra
+# 👋 Welcome to My GitHub Profile
 
 ## 💼 About Me
 
@@ -42,6 +43,14 @@
 🌍 HM Tours and Travels
 
 ---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=hemantmehraa&label=Profile%20Views&color=0e75b6&style=flat)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=hemantmehraa&theme=darkhub&no-frame=true&row=1&column=6)
 
 ## 📫 Connect With Me
 
